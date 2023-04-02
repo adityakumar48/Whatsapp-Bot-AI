@@ -1,0 +1,6 @@
+ffmpeg
+node_modules
+package-lock.json
+.env
+.wwebjs_auth
+downloaded-media
